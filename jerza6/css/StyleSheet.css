@@ -1,0 +1,80 @@
+﻿body {
+}
+#base
+{
+    position:absolute;
+    top:0px;
+    left:0px;
+    height:100%;
+    width:100%;
+    background-color:darkgray;
+}
+#trans
+{
+    position:absolute;
+    top:0px;
+    left:0px;
+    height:150px;
+    width:100%;
+    background-color:transparent;
+}
+
+#header
+{
+    position:absolute;
+    top:0px;
+    left:0px;
+    height:70px;
+    width:100%;
+    background-color:gray;
+}
+#btnsearch
+{
+    position:absolute;
+    top:15px;
+    right:10px;
+    height:40px;
+    width:120px;
+    background-color:navajowhite;
+    font-family:Arial;
+    font-size:13px;
+    text-align:center;
+    border-radius:5px;
+}
+#fieldsearch
+{
+    position:absolute;
+    top:12px;
+    right:145px;
+    height:30px;
+    width:170px;
+    background-color:white;
+    font-family:Arial;
+    font-size:13px;
+    text-align:center;
+    padding:5px;
+    border-radius:5px;
+}
+#muramodal
+{
+    position:absolute;
+    top:0px;
+    left:0px;
+    height:70px;
+    width:100%;
+    background-color:antiquewhite;
+}
+
+.button
+{
+    position:relative;
+    top:10px;
+    
+    height:40px;
+    width:150px;
+    background-color:white;
+   margin:5px;
+   margin-left:10px;
+    float:left;
+    border: 1px solid black;
+}
